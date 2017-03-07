@@ -1,5 +1,5 @@
 # game2
-second game
-this a ubacca edit
-another ubacca edit 
-a yatesjdy edit
+## second game
+* this a ubacca edit
+* another ubacca edit 
+* a yatesjdy edit
